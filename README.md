@@ -54,3 +54,6 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/khaled-saifee) or chec
 I'm always open to new opportunities and collaborations!
 
 ---
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
