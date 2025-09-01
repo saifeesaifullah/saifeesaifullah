@@ -19,7 +19,7 @@ If you have any questions or suggestions, feel free to reach out on these contac
 - 🔭 I’m currently working on **a real-time collaboration app using React and WebSockets**
 - 🌱 I’m learning **Rust & advanced TypeScript**
 - 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 How to reach me: **saifeekhaled1212@gmail.com **
+- 📫 How to reach me: **saifullahsaifee2090@gmail.com **
 - ⚡ Fun fact: *I love building indie SaaS tools in my free time.*
 
 ---
